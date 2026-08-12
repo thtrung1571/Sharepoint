@@ -1,0 +1,13 @@
+{
+    "smtp_host": "mail9020.maychuemail.com",
+    "smtp_port": 587,
+    "smtp_user": "mymall@mail.com",
+    "smtp_pass": "mypasss",
+    "smtp_use_ssl": false,
+    "target_url": "",
+    "default_to": "customer@mail.com",
+    "default_subject": "Documents",
+    "default_body": "Please find the attached documents.",
+    "headless": false,
+    "clear_browser": true
+}

@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+config.json
+env.exam
+
+# Playwright browsers
+browsers/
+
+# Runtime data (not tracked — per-user state)
+downloads/
+browser_data/
+sent_log.json
+
+# PyInstaller / build artifacts
+*.spec
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
